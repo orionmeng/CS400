@@ -1,0 +1,47 @@
+Starting,Destination,Distance
+Science Hall,Education Building,351
+Education Building,Science Hall,351
+Science Hall,Music Hall,473
+Music Hall,Science Hall,473
+Education Building,North Hall,152
+North Hall,Education Building,152
+Education Building,Law Building,459
+Law Building,Education Building,459
+North Hall,Bascom Hall,370
+Bascom Hall,North Hall,370
+Bascom Hall,Ingramham Hall,217
+Ingramham Hall,Bascom Hall,217
+Bascom Hall,Van Vleck Hall,242
+Van Vleck Hall,Bascom Hall,242
+Bascom Hall,South Hall,339
+South Hall,Bascom Hall,339
+Ingramham Hall,Van Vleck Hall,288
+Van Vleck Hall,Ingramham Hall,288
+Van Vleck Hall,Sterling Hall,170
+Sterling Hall,Van Vleck Hall,170
+Van Vleck Hall,Birge Hall,105
+Birge Hall,Van Vleck Hall,105
+Sterling Hall,Chamberlin Hall,82
+Chamberlin Hall,Sterling Hall,82
+Sterling Hall,Birge Hall,196
+Birge Hall,Sterling Hall,196
+Chamberlin Hall,Birge Hall,345
+Birge Hall,Chamberlin Hall,345
+Chamberlin Hall,Lathrop Hall,544
+Lathrop Hall,Chamberlin Hall,544
+Birge Hall,Lathrop Hall,192
+Lathrop Hall,Birge Hall,192
+Birge Hall,Law Building,286
+Law Building,Birge Hall,286
+Birge Hall,South Hall,73
+South Hall,Birge Hall,73
+Lathrop Hall,Chadbourne Residence Hall,357
+Chadbourne Residence Hall,Lathrop Hall,357
+Lathrop Hall,Law Building,270
+Law Building,Lathrop Hall,270
+Chadbourne Residence Hall,Music Hall,255
+Music Hall,Chadbourne Residence Hall,255
+Music Hall,Law Building,59
+Law Building,Music Hall,59
+Law Building,South Hall,147
+South Hall,Law Building,147
